@@ -1,8 +1,8 @@
-# Welcome to the Analyze Competitor Content by Lyzr!
+# Welcome to the Plagrism Checker by Lyzr!
 
 ![Lyzr Logo](./logo/lyzr-logo.png)
 
-The Analyze Competitor Content  app offers invaluable insights by dissecting competitors' titles and content, then generating 10 distinct topics to set your brand apart and enhance content strategy.
+
 
 *Note: For this application to function properly in your local system, ensure that the required dependencies are installed and configured correctly, and make sure that you have your OpenAI API Key.*
 
